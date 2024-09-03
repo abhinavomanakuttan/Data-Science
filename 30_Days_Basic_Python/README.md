@@ -4,7 +4,7 @@
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_01_Introduction)
 | 02  |  [Variables, Built-in Functions](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_02_Variables_builtin_functions/Built_in_functions)
-| 03  |  [Operators]
+| 03  |  [Operators](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_03_Operators)
 | 04  |  [Strings]
 | 05  |  [Lists]
 | 06  |  [Tuples]
