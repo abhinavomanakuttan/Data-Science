@@ -2,7 +2,7 @@
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction]
+| 01  |  [Introduction](30_Days_Basic_Python/Day_01_Introduction)
 | 02  |  [Variables, Built-in Functions]
 | 03  |  [Operators]
 | 04  |  [Strings]
