@@ -4,6 +4,7 @@
 2. Iterate 10 to 0 using for loop, do the same using while loop.
 3. Write a loop that makes seven calls to print(), so we get on the output the following triangle:
 
+
    ```py
      #
      ##
