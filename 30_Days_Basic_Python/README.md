@@ -11,7 +11,7 @@
 | 07  |  [Sets](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_07_sets)
 | 08  |  [Dictionaries](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_08_Dictionaries)
 | 09  |  [Conditionals](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_09_Conditionals)
-| 10  |  [Loops]
+| 10  |  [Loops](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_10_Loops)
 | 11  |  [Functions]
 | 12  |  [Modules]
 | 13  |  [List Comprehension]
