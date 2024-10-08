@@ -13,7 +13,7 @@
 | 09  |  [Conditionals](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_09_Conditionals)
 | 10  |  [Loops](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_10_Loops)
 | 11  |  [Functions](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_11_Functions)
-| 12  |  [Modules]
+| 12  |  [Modules](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_12_Modules)
 | 13  |  [List Comprehension]
 | 14  |  [Higher Order Functions]
 | 15  |  [Python Type Errors]
