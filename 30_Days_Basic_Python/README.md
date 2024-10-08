@@ -12,7 +12,7 @@
 | 08  |  [Dictionaries](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_08_Dictionaries)
 | 09  |  [Conditionals](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_09_Conditionals)
 | 10  |  [Loops](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_10_Loops)
-| 11  |  [Functions]
+| 11  |  [Functions](https://github.com/abhinavomanakuttan/Data-Science/tree/main/30_Days_Basic_Python/Day_11_Functions)
 | 12  |  [Modules]
 | 13  |  [List Comprehension]
 | 14  |  [Higher Order Functions]
